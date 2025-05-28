@@ -1,4 +1,5 @@
 # 🩺 Clasificación de Diabetes: Análisis Exploratorio de Datos y Machine Learning
+![](https://raw.githubusercontent.com/Andersoncrs/Clasificacion_Diabetes_Analisis_Exploratorio_De_Datos/refs/heads/main/banner_diabetes.png)
 
 ¡Bienvenido a este proyecto de ciencia de datos enfocado en la clasificación de diabetes! a traves el siguiente analisis comprenderemos cómo los datos y la inteligencia artificial pueden apoyar a la detección temprana de esta enfermedad, mediante un proceso analítico, visual y predictivo.
 
